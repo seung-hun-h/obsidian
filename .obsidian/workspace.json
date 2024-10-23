@@ -1,0 +1,241 @@
+{
+  "main": {
+    "id": "81bc8893617b1d46",
+    "type": "split",
+    "children": [
+      {
+        "id": "1c8042b91ba2c681",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "85d4aae03fa65feb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Books/카프카 핵심 가이드/4. 카프카 컨슈머.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "4. 카프카 컨슈머"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "46e6d3710482de00",
+    "type": "split",
+    "children": [
+      {
+        "id": "dbc934b961e1cb27",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ed1f250b3f829180",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "b1435abc6545408a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "07985a06cd6ad165",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 265.5
+  },
+  "right": {
+    "id": "911f6ffc0f5c1b7f",
+    "type": "split",
+    "children": [
+      {
+        "id": "2e29f3518512693d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "015556e81daac865",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Books/카프카 핵심 가이드/4. 카프카 컨슈머.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 4. 카프카 컨슈머"
+            }
+          },
+          {
+            "id": "6505702219de748f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Books/카프카 핵심 가이드/4. 카프카 컨슈머.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 4. 카프카 컨슈머"
+            }
+          },
+          {
+            "id": "061e19dd7feb7ef7",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "42d1a9fe9c3a7e69",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Books/카프카 핵심 가이드/4. 카프카 컨슈머.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 4. 카프카 컨슈머"
+            }
+          },
+          {
+            "id": "5ded043bcbc6627a",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
+          },
+          {
+            "id": "1bd98a52b6715927",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "publish:Publish changes...": false,
+      "mermaid-tools:Open Mermaid Toolbar": false,
+      "obsidian-advanced-slides:Show Slide Preview": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "1bd98a52b6715927",
+  "lastOpenFiles": [
+    "Books/카프카 핵심 가이드/3.  카프카 프로듀서.md",
+    "Books/카프카 핵심 가이드/4. 카프카 컨슈머.md",
+    "About.md",
+    "Books/카프카 핵심 가이드",
+    "로드맵.md",
+    "카프카",
+    "읽을 것들.md",
+    "투자/투자 전략.md",
+    "투자",
+    "개발원칙/테스트.md",
+    "요약/실용적인 테스트 피라미드.md",
+    "개발원칙",
+    "요약/테스트를 추가하고 싶은 개발자들의 오답노트.md",
+    "트러블 슈팅/org.apache.hc.core5.http.NoHttpResponseException.md",
+    "요약",
+    "트러블 슈팅/RedisTemplate 직렬화 문제.md",
+    "트러블 슈팅",
+    "스프링",
+    "PPT/레디스 백업.md",
+    "코틀린",
+    "Pasted image 20240313110406.png",
+    "Pasted image 20240313110533.png",
+    "PPT/imagse/Untitled Diagram.svg",
+    "Untitled.canvas",
+    "PPT/imagse/replication.png",
+    "PPT/imagse/aof-rdb.png",
+    "PPT/imagse",
+    "데이터베이스/레디스/ppt/Untitled.md",
+    "데이터베이스/레디스/ppt/테스트.md",
+    "PPT",
+    "Books/그림으로 공부하는 오라클 구조/03. 캐시와 공유메모리.md",
+    "Books/그림으로 공부하는 오라클 구조/02. 오라클의 여러 프로세스.md",
+    "Books/그림으로 공부하는 오라클 구조/01. 입출력과 디스크의 관계.md",
+    "Books/그림으로 공부하는 오라클 구조/05. 오라클의 기동과 정지.md",
+    "Pasted image 20240130220028.png",
+    "Books/리팩터링 2판/02. 리팩터링 원칙.md",
+    "Books/리팩터링 2판/12. 상속 다루기.md",
+    "Books/리팩터링 2판/10. 조건부 로직 간소화.md",
+    "Books/리팩터링 2판/11. API 리팩터링.md",
+    "랭체인/Model IO.md",
+    "랭체인/에이전트(Agent).md",
+    "Books/리팩터링 2판/08. 기능 이동.md",
+    "데이터베이스/오라클/빈 문자열과 NULL.md",
+    "Git/images/2-Way Merge VS 3-Way Merge.png",
+    "Git/images/커밋 3개를 Merge.png",
+    "Git/images/Merge 커밋.png",
+    "Git/images/master에서 나온 hotfix 브랜치.png"
+  ]
+}

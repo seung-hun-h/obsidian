@@ -1,0 +1,7 @@
+- 랭체인 패키지의 주요한 부분은 **Components** 와 **Off-the-shelf chains**이다
+	- Components: 언어 모델을 활용한 작업을 위한 도구들과 통합. 모듈식이며 랭체인 사용 여부와 상관 없이 사용하기 쉽다
+	- Off-the-shelf chains: 상위 수준의 작업을 수행하기 위해 내장된 어셈블리
+- 랭체인 라이브러리는 `langchain-core`, `langchain-community`, `langchain` 패키지로 구성된다
+	- `langchain-core`: [[LangChain Expression Language(LCEL)]]과 기본 추상화
+	- `langchain-community`: 서드 파티 통합
+	- `langchain`: 애플리케이션의 인지 아키텍처를 구성하는 체인, 에이전트 및 검색 전략

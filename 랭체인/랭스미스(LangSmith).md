@@ -1,0 +1,2 @@
+- [LangSmith](https://smith.langchain.com/)는 언어 모델 애플리케이션과 지능형 에이전트를 추적하고 평가하여 프로토타입에서 프로덕션으로 전환할 수있도록 도와준다
+- https://python.langchain.com/docs/langsmith
