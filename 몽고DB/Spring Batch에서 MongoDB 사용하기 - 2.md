@@ -300,7 +300,6 @@ List<User> users = mongoTemplate.find(query, User.class);
 	- 타입은 그래도 명시해야할 때가 있다
 - 커스텀 클래스의 경우 `Codec`을 구현하여 등록해야 한다
 	- `MappingMongoConverter`를 통해 `Codec`을 등록하지 않아도 도메인 클래스로 자동 변환이 된다
-	- 
 ## 5. V2의 문제점
 - 타입을 명시해야 할 때가 있다
 - 간단한 쿼리를 작성할 때도 `Criteria`를 사용해야 해서 번거롭다
